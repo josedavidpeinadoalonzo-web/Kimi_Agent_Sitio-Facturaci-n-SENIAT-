@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Kimi_Agent_Sitio-Facturaci-n-SENIAT-/sw.js', { scope: '/Kimi_Agent_Sitio-Facturaci-n-SENIAT-/' })})}
